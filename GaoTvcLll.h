@@ -27,8 +27,6 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)displayContent:(NSArray <NSString *>*)arr;
 -(void)displayModel:(GaoTvcLllModel *)model;
 
-- (CGFloat)cellHeight;
-
 @end
 
 NS_ASSUME_NONNULL_END
